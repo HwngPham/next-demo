@@ -40,6 +40,10 @@ export default function Home() {
               height={100}
               priority
             />
+            <img
+              src="../../public/hand-circle.jpg"
+              alt="hand circle normal image"
+            ></img>
           </a>
         </div>
       </div>
