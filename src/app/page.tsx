@@ -16,34 +16,32 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{" "}
-            <Image
+            <img
               src="/vercel.svg"
               alt="Vercel Logo"
               className="dark:invert"
               width={100}
               height={24}
-              priority
             />
-            <Image
+            <img
               src="/hand-circle.jpg"
               alt="hand circle"
               className="dark:invert"
               width={100}
               height={100}
-              priority
             />
-            <Image
+            <img
               src="/pc.jpg"
               alt="pc"
               className="dark:invert"
               width={100}
               height={100}
-              priority
             />
             <img
               src="../../public/hand-circle.jpg"
               alt="hand circle normal image"
             ></img>
+            <img src="/hand-circle.jpg" alt="hand circle normal image"></img>
           </a>
         </div>
       </div>
